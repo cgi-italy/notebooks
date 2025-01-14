@@ -7,7 +7,7 @@ A set of Jupyter Notebooks showing the usage of Insula's APIs, in particular:
 - [Data Collections](https://github.com/cgi-italy/notebooks/blob/main/DataCollections.ipynb): create collections and upload files
 - [Processing Services](https://github.com/cgi-italy/notebooks/blob/main/ProcessingServices.ipynb): see available services and launch one
 - [OpenEO](https://github.com/cgi-italy/notebooks/blob/main/OpenEO.ipynb): learn how to use the OpenEO library and services to access external data.
-- [Kubeflow Pipeline](https://github.com/cgi-italy/notebooks/blob/main/Kubeflow_Hello_world.ipynb): Jupyter Notebook to produce yaml file of a simple "Hello world!" pipeline
+- [Kubeflow Pipeline](https://github.com/cgi-italy/notebooks/blob/main/Kubeflow_Hello_world.ipynb): Jupyter Notebook to produce yaml file of a simple "Hello world!" pipeline 
 
 ## Create a virtual environment for OpenEO
 By creating a virtual environment, we can install the libraries needed by the OpenEO notebook in a way that they can survive Jupyter server reboots. To do this open a terminal inside Jupyter and use the following commands:
